@@ -9,5 +9,5 @@ deploy_model.py: implements a Python Flask based Web Application that reads data
                  the data is then used to analize the classification according to the user session 
                  and check if it follows google score.
                  
-
+                python Flask is handeling the http requset and response in the module
 
